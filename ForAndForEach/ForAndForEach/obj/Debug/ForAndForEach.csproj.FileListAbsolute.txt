@@ -1,0 +1,7 @@
+C:\Users\Tom\Documents\Learning C#\practice repos\ForAndForEach\ForAndForEach\bin\Debug\ForAndForEach.exe.config
+C:\Users\Tom\Documents\Learning C#\practice repos\ForAndForEach\ForAndForEach\bin\Debug\ForAndForEach.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\ForAndForEach\ForAndForEach\bin\Debug\ForAndForEach.pdb
+C:\Users\Tom\Documents\Learning C#\practice repos\ForAndForEach\ForAndForEach\obj\Debug\ForAndForEach.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Learning C#\practice repos\ForAndForEach\ForAndForEach\obj\Debug\ForAndForEach.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\Learning C#\practice repos\ForAndForEach\ForAndForEach\obj\Debug\ForAndForEach.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\ForAndForEach\ForAndForEach\obj\Debug\ForAndForEach.pdb

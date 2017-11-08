@@ -1,0 +1,7 @@
+C:\Users\Tom\Documents\Learning C#\practice repos\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\Tom\Documents\Learning C#\practice repos\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\Tom\Documents\Learning C#\practice repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Learning C#\practice repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\Learning C#\practice repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tom\Documents\Learning C#\practice repos\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\Tom\Documents\Learning C#\practice repos\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\Tom\Documents\Learning C#\practice repos\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\Learning C#\practice repos\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
+C:\Users\Tom\Documents\Learning C#\practice repos\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csprojResolveAssemblyReference.cache

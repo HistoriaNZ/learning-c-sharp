@@ -1,0 +1,7 @@
+C:\Users\Tom\Documents\Learning C#\practice repos\IfStatements\IfStatements\obj\Debug\IfStatements.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Learning C#\practice repos\IfStatements\IfStatements\obj\Debug\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\Learning C#\practice repos\IfStatements\IfStatements\bin\Debug\IfStatements.exe.config
+C:\Users\Tom\Documents\Learning C#\practice repos\IfStatements\IfStatements\bin\Debug\IfStatements.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\IfStatements\IfStatements\bin\Debug\IfStatements.pdb
+C:\Users\Tom\Documents\Learning C#\practice repos\IfStatements\IfStatements\obj\Debug\IfStatements.exe
+C:\Users\Tom\Documents\Learning C#\practice repos\IfStatements\IfStatements\obj\Debug\IfStatements.pdb

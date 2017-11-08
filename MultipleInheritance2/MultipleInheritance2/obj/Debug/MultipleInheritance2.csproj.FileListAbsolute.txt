@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\MultipleInheritance2\MultipleInheritance2\obj\Debug\MultipleInheritance2.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\MultipleInheritance2\MultipleInheritance2\obj\Debug\MultipleInheritance2.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\MultipleInheritance2\MultipleInheritance2\bin\Debug\MultipleInheritance2.exe.config
+C:\Users\Tom\source\repos\MultipleInheritance2\MultipleInheritance2\bin\Debug\MultipleInheritance2.exe
+C:\Users\Tom\source\repos\MultipleInheritance2\MultipleInheritance2\bin\Debug\MultipleInheritance2.pdb
+C:\Users\Tom\source\repos\MultipleInheritance2\MultipleInheritance2\obj\Debug\MultipleInheritance2.exe
+C:\Users\Tom\source\repos\MultipleInheritance2\MultipleInheritance2\obj\Debug\MultipleInheritance2.pdb

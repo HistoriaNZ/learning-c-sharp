@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\Classes2\Classes2\bin\Debug\Classes2.exe.config
+C:\Users\Tom\source\repos\Classes2\Classes2\bin\Debug\Classes2.exe
+C:\Users\Tom\source\repos\Classes2\Classes2\bin\Debug\Classes2.pdb
+C:\Users\Tom\source\repos\Classes2\Classes2\obj\Debug\Classes2.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Classes2\Classes2\obj\Debug\Classes2.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Classes2\Classes2\obj\Debug\Classes2.exe
+C:\Users\Tom\source\repos\Classes2\Classes2\obj\Debug\Classes2.pdb
